@@ -1,2 +1,2 @@
-# C20-algorithm
-Algorithm written to detect touch , collide , bounce off
+# p5.play-boilerplate
+Boiler plate for p5.play
